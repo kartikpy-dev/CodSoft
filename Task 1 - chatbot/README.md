@@ -1,30 +1,59 @@
-print("====================================")
-print("      Welcome to AI Chatbot")
-print("====================================")
+# 🤖 CodSoft AI Internship
 
-name = input("Enter your name: ")
+Welcome to my GitHub repository for the **CodSoft Artificial Intelligence Internship**.
 
-print(f"\nHello, {name}!")
-print("Type 'bye' anytime to exit.\n")
+This repository contains all the tasks and projects completed during my internship.
 
-while True:
-    user = input("You: ").lower()
+---
 
-    if user == "hi" or user == "hello":
-        print("Bot: Hello! Nice to meet you.")
+# 📂 Projects
 
-    elif user == "how are you":
-        print("Bot: I'm doing great. Thanks for asking!")
+## ✅ Task 1 - Rule-Based Chatbot
 
-    elif user == "what is your name":
-        print("Bot: My name is CodBot.")
+A Python chatbot that responds to user inputs using predefined rules.
 
-    elif user == "what is ai":
-        print("Bot: AI stands for Artificial Intelligence.")
+### Features
 
-    elif user == "bye":
-        print("Bot: Goodbye! Have a nice day.")
-        break
+- Greeting users
+- AI-related questions
+- Programming questions
+- Calculator
+- Date and Time
+- Random jokes
+- Motivational quotes
+- Coin Flip
+- Dice Roll
+- Guess Number Game
+- Rock Paper Scissors
+- Quiz
+- Chat History
+- Session Summary
 
-    else:
-        print("Bot: Sorry, I don't understand that.")
+---
+
+## 🚧 Task 2 - Image Captioning
+
+Coming Soon...
+
+---
+
+## 🚧 Task 3 - Recommendation System
+
+Coming Soon...
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+# 👨‍💻 Author
+
+**Kartik**
+
+CodSoft Artificial Intelligence Internship
