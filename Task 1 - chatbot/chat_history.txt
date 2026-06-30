@@ -1,0 +1,225 @@
+
+============================================================
+Session Started: 2026-06-29 22:40:45.218308
+============================================================
+kartik: help
+Bot: 
+==================== HELP ====================
+
+Greetings
+---------
+hi
+hello
+hey
+good morning
+good afternoon
+good evening
+
+Personal
+--------
+my name
+my age
+my city
+
+AI
+--
+what is ai
+what is machine learning
+what is deep learning
+what is nlp
+what is computer vision
+what is chatgpt
+who made chatgpt
+uses of ai
+advantages of ai
+disadvantages of ai
+
+Programming
+-----------
+what is python
+what is java
+what is c
+what is html
+what is css
+what is javascript
+what is sql
+what is oop
+what is github
+what is git
+
+Utilities
+---------
+date
+time
+day
+month
+year
+
+Calculator
+----------
+Examples:
+2+2
+50-10
+12*5
+100/4
+
+Fun
+---
+joke
+another joke
+quote
+motivate me
+flip coin
+roll dice
+random number
+
+Conversation
+------------
+i am happy
+i am sad
+i am bored
+i am tired
+thank you
+thanks
+good
+bad
+nice
+awesome
+
+College
+-------
+what is bca
+what is mca
+what is internship
+why learn python
+what is codsoft
+
+Games
+-----
+guess game
+rock paper scissors
+quiz
+
+Exit
+----
+bye
+
+==============================================
+
+kartik: guess game
+Bot: Congratulations! You guessed the correct number.
+kartik: q
+Bot: Sorry! I don't understand that command. Type 'help' to see all available commands.
+kartik: 1
+Bot: Sorry! I don't understand that command. Type 'help' to see all available commands.
+kartik: 2
+Bot: Sorry! I don't understand that command. Type 'help' to see all available commands.
+kartik: help
+Bot: 
+==================== HELP ====================
+
+Greetings
+---------
+hi
+hello
+hey
+good morning
+good afternoon
+good evening
+
+Personal
+--------
+my name
+my age
+my city
+
+AI
+--
+what is ai
+what is machine learning
+what is deep learning
+what is nlp
+what is computer vision
+what is chatgpt
+who made chatgpt
+uses of ai
+advantages of ai
+disadvantages of ai
+
+Programming
+-----------
+what is python
+what is java
+what is c
+what is html
+what is css
+what is javascript
+what is sql
+what is oop
+what is github
+what is git
+
+Utilities
+---------
+date
+time
+day
+month
+year
+
+Calculator
+----------
+Examples:
+2+2
+50-10
+12*5
+100/4
+
+Fun
+---
+joke
+another joke
+quote
+motivate me
+flip coin
+roll dice
+random number
+
+Conversation
+------------
+i am happy
+i am sad
+i am bored
+i am tired
+thank you
+thanks
+good
+bad
+nice
+awesome
+
+College
+-------
+what is bca
+what is mca
+what is internship
+why learn python
+what is codsoft
+
+Games
+-----
+guess game
+rock paper scissors
+quiz
+
+Exit
+----
+bye
+
+==============================================
+
+kartik: bye
+Bot: Goodbye! Thank you for using CodBot.
+Questions Asked : 7
+Session Time : 2260.99 seconds
+============================================================
